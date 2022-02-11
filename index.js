@@ -24,7 +24,7 @@ const client = new Discord.Client({
  client.login(Token)
 
  /*
- Follow my sosial @skyee06
+ Follow my Instagram @skyee06
 
  #SalamPengangguranIndonesia.
 
