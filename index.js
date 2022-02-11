@@ -26,6 +26,6 @@ const client = new Discord.Client({
  /*
  Follow my sosial @skyee06
 
- #SalamPengangguranIndonesia
+ #SalamPengangguranIndonesia.
 
  */
