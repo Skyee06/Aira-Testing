@@ -26,6 +26,4 @@ const client = new Discord.Client({
  /*
  Follow my Instagram @skyee06
 
- #SalamPengangguranIndonesia.
-
  */
